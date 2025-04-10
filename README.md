@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Marquez Franco</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegoomrqz" alt="diegoomrqz" /></a> </p>
 
 - 🔭 I’m currently working on **Machine learning and neuronal networks**
 
