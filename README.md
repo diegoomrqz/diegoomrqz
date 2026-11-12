@@ -1,20 +1,65 @@
-<h1 align="center">Hi 👋, I'm Diego Marquez Franco</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h1 align="center">Hi, I'm Diego Marquez Franco</h1>
 
+<h3 align="center">
+Quantitative Finance · Fixed Income & Derivatives · Mathematical Modeling
+</h3>
 
-- 🔭 I’m currently working on **Machine learning and neuronal networks**
-
-- 👨‍💻 All of my projects are available at [https://github.com/diegoomrqz/Proyects](https://github.com/diegoomrqz/Proyects)
-
-- 📫 How to reach me **dieguis26@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diegoomrqz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegoomrqz" height="30" width="40" /></a>
+<p align="center">
+Applied Mathematics at UNAM, Facultad de Ciencias<br>
+Academic exchange in Mathematics at Freie Universität Berlin
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoomrqz&show_icons=true&locale=en&layout=compact" alt="diegoomrqz" /></p>
+## About Me
 
+I specialize in quantitative finance and mathematical modeling for financial markets, with a focus on fixed income and derivatives.
+
+My work centers on understanding financial models from their mathematical foundations: examining their assumptions, deriving their dynamics, and translating them into Python tools for valuation, hedging and risk analysis.
+
+I combine stochastic calculus, numerical methods and computational validation to connect model behavior with trading and structuring decisions. My professional background includes developing Python/SQL financial data systems processing over 2 million transactions per month.
+
+## Quantitative Projects
+
+### TIIE Funding Swaption Valuation & Calibration
+A Python project focused on European payer and receiver swaptions on MXN fixed–TIIE Funding swaps.
+
+- Hull–White one-factor modeling within a multi-curve framework.
+- Model calibration and numerical validation.
+- Project scope includes curve sensitivities, swap exposure profiles and unilateral CVA.
+
+### Hull–White One-Factor Short-Rate Model
+An academic project connecting stochastic modeling, simulation and statistical inference.
+
+- Analytical solution, Gaussian transition distributions and conditional moments.
+- Exact-transition and Euler–Maruyama simulation, convergence and Monte Carlo analysis.
+- Maximum likelihood estimation under continuous and discrete observations.
+
+### Frequency-Based Kelly-Optimal Portfolio with Transaction Costs
+A research paper exploring how transaction costs affect exposure and trading frequency.
+
+- Joint optimization of signed exposure and holding intervals of 1–252 trading days.
+- Comparison of Standard and Mini USD/MXN futures contract cost structures.
+- Transaction-cost sensitivity analysis and simulated wealth paths.
+- Simplified in-sample analysis using Banxico spot returns as a proxy for futures price changes.
+
+## Mathematical & Financial Foundations
+
+- **Stochastic analysis:** martingales, stochastic integration, Itô calculus, change of measure and stochastic differential equations.
+- **Fixed income:** interest-rate derivatives, yield curves, discounting and short-rate models.
+- **Derivatives:** pricing, volatility modeling, sensitivities and hedging.
+- **Numerical methods:** Monte Carlo, finite differences, optimization and parameter estimation.
+
+## Technical Toolkit
+
+- **Programming:** Python, SQL, Git.
+- **Scientific computing:** NumPy, pandas, SciPy.
+- **Visualization:** Matplotlib, Plotly.
+- **Data engineering:** Docker, Apache Airflow, ETL and automated reconciliation.
+- **Machine learning:** PyTorch, TensorFlow, scikit-learn.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/diegoomrqz/)
+- [GitHub repositories](https://github.com/diegoomrqz?tab=repositories)
+- [Email](mailto:diegoomrqz@outlook.com)
